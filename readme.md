@@ -1,14 +1,4 @@
 ```
-KAYA SEUNGHO LEE 2K
-kayalee2k@gmail.com
-2002           1004
-
-undergraduate stude
-nt in computer scie
-nce and engineering
-seoul national univ
-
-previously a resear
-ch scientist in air
-s medical 2023-2025
+KAYA SEUNGHO LEE 2K    undergraduate student in computer science and engineering at seoul national university
+kayalee2k@gmail.com    previously a research scientist in airs medical 2023.01 - 2025.03
 ```
