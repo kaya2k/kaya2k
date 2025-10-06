@@ -1,1 +1,1 @@
-SEUNGHO LEE kayalee2k@gmail.com
+SEUNGHO LEE (kayalee2k@gmail.com)
